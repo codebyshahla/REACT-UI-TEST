@@ -8,9 +8,7 @@ body{
 }
 .Head{
     color: black;
-    display: flex;
-    justify-content: center;
-    /* height: 10%; */
+    text-align: center;
     font-size: xx-large;
       
 }
@@ -25,8 +23,8 @@ body{
     75%{content:"";}
     100%{content:"welcome";}
 } */
-.Headb{
-    background-color:rgb(241, 157, 213); 
-    height: 10%;
+.Head{
+    background-color:#ac1b1b;
+    height: 10%; 
     width: 100%;
 }

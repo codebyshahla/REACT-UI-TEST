@@ -7,7 +7,9 @@ function header() {
 
     <div className='Headb'>
       <h6 className='Head'><span></span>WELCOME</h6>
-
+<div>
+  <h1>hi am shahla</h1>
+</div>
     
     </div>
   
@@ -15,3 +17,4 @@ function header() {
 }
 
 export default header
+ 
